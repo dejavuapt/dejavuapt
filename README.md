@@ -28,17 +28,31 @@ https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif
 
 </div>
 
+### 🎓 Educate
 
-### :dizzy: Skills
+<p font-size="10">
+
+Completed:
+* Tyumen State University "Mathematical support and administration of information systems" - Bachelor | 2020 - 2024
+* Yandex Practicum C++ Developer at 80% | 12.2023 - 09.2024
+
+Current:
+* Tyumen State University "Mathematical support and administration of information systems" - Master | 2024 - $\infty$
+* Yandex Practicum Python Developer | 03.2025 - $\infty$
+
+</p>
+
+### :dizzy: Stack
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C2E20?style=plastic&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 
 ### 🗃️ Softs
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vscode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-white?style=plastic&logo=debian&logoColor=red)
 
