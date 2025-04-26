@@ -44,12 +44,16 @@ Current:
 
 ### :dizzy: Stack
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-00599C?style=plastic&logo=cmake&logoColor=white)
+![UE](https://img.shields.io/badge/UE%204.27%20and%205.-black?style=plastic&logo=Unreal%20Engine&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C2E20?style=plastic&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 ### 🗃️ Softs
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vscode&logoColor=white)
