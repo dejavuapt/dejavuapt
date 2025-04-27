@@ -16,6 +16,9 @@ https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif
         <a href="https://t.me/xdashduck">
             <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
         </a>
+        <a href="https://leetcode.com/u/dejavuapt/">
+            <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="telegram Badge"/>
+        </a>
     </div>
     
 
