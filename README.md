@@ -8,8 +8,13 @@ https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif
 https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif
 -->
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dejavuapt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dejavuapt/github-readme-stats#gh-light-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dejavuapt)
+<div align="center">
+
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=dejavuapt&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=dejavuapt&hide_border=true" />
+
+</div>
+
 
 <div id="header" align="center">
 <div id="badges">
