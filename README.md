@@ -35,13 +35,14 @@ https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif
 <p font-size="10">
 
 Completed:
+* Basics of C# programming [Stepik](https://stepik.org/cert/306837?lang=en) | 2020
 * Adapted course based by CCNA in UTMN "Network Engineer" Cisco and Huawei | 2021 - 2022
 * UTMN "Mathematical support and administration of information systems" - Bachelor | 2020 - 2024
 * Yandex Practicum C++ Developer at 80% | 12.2023 - 09.2024
 
 Current:
 * UTMN "Mathematical support and administration of information systems" - Master | 2024 - $\infty$
-* Yandex Practicum Python Developer | 03.2025 - $\infty$
+* Some Stepik's curses | 2021 - $\infty$
 
 </p>
 
@@ -49,6 +50,8 @@ Current:
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-00599C?style=plastic&logo=cmake&logoColor=white)
 ![UE](https://img.shields.io/badge/UE%204.27%20and%205.-black?style=plastic&logo=Unreal%20Engine&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%2317-purple?style=plastic&logo=c%23&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C2E20?style=plastic&logo=django&logoColor=white)
@@ -64,4 +67,5 @@ Current:
 ![Debian](https://img.shields.io/badge/Debian-white?style=plastic&logo=debian&logoColor=red)
 
 ![Obsidian](https://img.shields.io/badge/obsidian-purple?style=plastic&logo=obsidian&logoColor=white)
+
 
